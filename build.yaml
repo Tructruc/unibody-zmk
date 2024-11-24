@@ -5,8 +5,8 @@
 # pass flags to the build command and `artifact-name` to assign a name to
 # distinguish build outputs from each other:
 #
-board: [ "nice_nano_v2" ]
-shield: ["unibody" ]
+#board: [ "nice_nano_v2" ]
+#shield: ["unibody" ]
 include:
   - board: nice_nano_v2
     shield: unibody
