@@ -3,6 +3,6 @@ id: unibody
 name: Unibody
 type: shield
 url: example.com
-requires: [pro_micro]
+requires: [nice_nano_v2]
 features:
   - keys
